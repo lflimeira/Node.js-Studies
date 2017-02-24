@@ -1,0 +1,25 @@
+{
+  "name": "pokemons-api",
+  "version": "0.0.1",
+  "description": "API para nossos Pokemons",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemons",
+    "node",
+    "mongodb"
+  ],
+  "author": "Luiz",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.8.2"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "optionalDependencies": {
+    "colors": "^1.1.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "teste do npm run",
+  "main": "index.js",
+  "scripts": {
+    "roda":"node script.js",
+    "start":"node script.js"
+  },
+  "keywords": [
+    "npm",
+    "run"
+  ],
+  "author": "Luiz",
+  "license": "ISC"
+}
