@@ -1,2 +1,14 @@
+node_modules/
 pokemons-api/node_modules
 mongoose-pkms/node_modules
+aula-express/node-modules
+LoginSession/node-modules
+aula-express-generator/node-modules
+events/mongoose/node-modules
+express-req/node-modules
+mongoose-atomic-design/node-modules
+mongoose-atomic/node-modules
+mongoose-user/node-modules
+quarks-testes/node-modules
+tdd-extras/node-modules
+tdd/chai/node-modules
