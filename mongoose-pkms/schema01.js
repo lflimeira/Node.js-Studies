@@ -1,9 +1,7 @@
 const mongoose = require('mongoose');
-
-mongoose.connect('mongodb://localhost/be-mean-instaagram');
-
 const Schema = mongoose.Schema;
-//Criação do Schema
+
+//CriaÃ§Ã£o do Schema
 const pokemonSchema = new Schema({
 	name: String,
 	description: String,
@@ -13,4 +11,4 @@ const pokemonSchema = new Schema({
 	height: Number
 });
 
-console.log('Schema', pokemonSchema);
+module.exports = pokemonSchema;

@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-user",
+  "version": "1.0.0",
+  "description": "mongoose user atomic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "node",
+    "atomic"
+  ],
+  "author": "Luiz Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.9.1"
+  }
+}
